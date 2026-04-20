@@ -1,4 +1,4 @@
-# 📊 Retail Sales Dashboard (Power BI)
+# 📊 Beverage Sales Dashboard 
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard designed to analyze retail sales data and provide actionable business insights. The dashboard focuses on key performance indicators, regional performance, and profitability analysis to support data-driven decision-making.
